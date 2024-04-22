@@ -2,13 +2,13 @@
         width: 80%;
         margin: 50px auto;
         border-collapse: collapse;
-		text-transform:uppercase;
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     }
 
     thead {
         background-color: #1A5276;
         color: white;
+		text-transform:uppercase;
     }
 
     th, td {
